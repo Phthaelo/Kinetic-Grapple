@@ -15,4 +15,4 @@ Feel free to use for custom maps, servers, and more!
 
 | Command                              | Description                                         |
 |--------------------------------------|:---------------------------------------------------:|
-| `/function kinetic_grapple:uninstall`|Remove all Scoreboard Objectives and disable Datapack|
+| `/function kinetic_grapple:uninstall`|Remove Scoreboard Objectives and Storage, and disable Datapack|
