@@ -9,5 +9,5 @@ scoreboard objectives remove impulse_grapple.UUID3
 
 data remove storage impulse_grapple:storage grapple_strength
 
-datapack disable "file/Impulse Grapple v1.0.4"
-datapack disable "file/Impulse Grapple v1.0.4.zip"
+datapack disable "file/Impulse Grapple v1.0.0"
+datapack disable "file/Impulse Grapple v1.0.0.zip"
