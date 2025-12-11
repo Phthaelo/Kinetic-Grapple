@@ -1,0 +1,11 @@
+{
+  "criteria": {
+    "trigger": {
+      "trigger": "minecraft:fishing_rod_hooked",
+      "conditions": {}
+    }
+  },
+  "rewards": {
+    "function": "kinetic_grapple:pull"
+  }
+}
